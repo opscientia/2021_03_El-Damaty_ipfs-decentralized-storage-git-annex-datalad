@@ -1,4 +1,4 @@
-<h3 align="center"> Use this template </h3>
+<h3 align="center"> I used this template </h3>
 <h3 align="center"> 🍪✂️ </h3>
 
 <p align="center">Click the green <code>Use this template</code> button and create a repository in your own user account. <br><br> Please follow <b>YYYY_MM_first-auth-surname_freeform-keywords</b> convention to name your repository. <br><br> For example: <code>2020_10_karakuzu_qmri-pulse-sequence</code></p>
